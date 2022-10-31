@@ -1531,3 +1531,57 @@ blur {
   color:#f2b94b;
 }
 /* bubble结束 */
+
+
+/* text文本样式 */
+del,s {
+  color: #8e8e8e;
+  text-decoration-color: #8e8e8e
+}
+
+u {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px solid #fe5f58
+}
+
+emp {
+  color: #444;
+  border-bottom: 4px dotted #fe5f58;
+}
+
+wavy {
+  color: #444;
+  text-decoration-style: wavy;
+  text-decoration-line: underline;
+  text-decoration-color: #fe5f58
+}
+
+psw {
+  color: transparent;
+  background: #a1a1a1;
+  border-radius: 2px;
+  -webkit-transition: all .28s ease;
+  -moz-transition: all .28s ease;
+  -o-transition: all .28s ease;
+  -ms-transition: all .28s ease;
+  transition: all .28s ease;
+  -moz-transition: all .28s ease;
+  -webkit-transition: all .28s ease;
+  -o-transition: all .28s ease
+}
+
+psw:hover {
+  color: #444;
+  background: 0 0
+}
+
+/*哔哩哔哩视频适配*/
+.aspect-ratio {position: relative;width: 100%;height: 0;padding-bottom: 75%;margin: 3% auto;text-align: center;}      
+.aspect-ratio iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
