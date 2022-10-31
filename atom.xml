@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>烟雨长安の博客</title>
+  
+  <subtitle>在偷看你哦</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-10-31T11:42:48.368Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>半糖の奶瓶</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>代码演示</title>
+    <link href="http://example.com/posts/be82d226.html"/>
+    <id>http://example.com/posts/be82d226.html</id>
+    <published>2022-10-31T02:56:29.000Z</published>
+    <updated>2022-10-31T11:42:48.368Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">span</span>&gt;</span>helle world!<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
+    <published>2022-10-30T10:14:01.886Z</published>
+    <updated>2022-10-31T11:42:48.357Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>主题样式</title>
+    <link href="http://example.com/posts/9520.html"/>
+    <id>http://example.com/posts/9520.html</id>
+    <published>2022-03-30T07:57:50.000Z</published>
+    <updated>2022-10-31T10:22:33.069Z</updated>
+    
+    <content type="html"><![CDATA[<p><h2>页面首页</h2><br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:            【必需】页面标题</span><br><span class="line">date:            【必需】页面创建日期</span><br><span class="line">type:            【必需】标签、分类和友情链接三个页面需要配置</span><br><span class="line">updated:        【可选】页面更新日期</span><br><span class="line">description:    【可选】页面描述</span><br><span class="line">keywords:        【可选】页面关键字</span><br><span class="line">comments:        【可选】显示页面评论模块 (默认 true)</span><br><span class="line">top<span class="emphasis">_img:        【可选】页面顶部图片</span></span><br><span class="line"><span class="emphasis">mathjax:        【可选】显示 mathjax (当设置 mathjax 的 per_</span>page: false 时，才需要配置，默认 false)</span><br><span class="line">katex:            【可选】显示 katex (当设置 katex 的 per<span class="emphasis">_page: false 时，才需要配置，默认 false)</span></span><br><span class="line"><span class="emphasis">aside:            【可选】显示侧边栏 (默认 true)</span></span><br><span class="line"><span class="emphasis">aplayer:        【可选】在需要的页面加载 aplayer 的 js 和 css, 请参考文章下面的音乐 配置</span></span><br><span class="line"><span class="emphasis">highlight_</span>shrink:   【可选】配置代码框是否展开 (true/false)(默认为设置中 highlight<span class="emphasis">_shrink 的配置)</span></span><br><span class="line"><span class="emphasis">toc:            【可选】 页面是否显示目录</span></span><br><span class="line"><span class="emphasis">toc_</span>number:        【可选】 目录是否显示数字</span><br><span class="line"><span class="section">sticky:            【可选】 文章置顶，数字越大越靠前</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;h2&gt;页面首页&lt;/h2&gt;&lt;br&gt;&lt;figure class=&quot;highlight markdown&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="生活美满" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB%E7%BE%8E%E6%BB%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>text(文本样式标签测试)</title>
+    <link href="http://example.com/posts/9520.html"/>
+    <id>http://example.com/posts/9520.html</id>
+    <published>2022-03-30T07:57:50.000Z</published>
+    <updated>2022-10-31T06:11:33.182Z</updated>
+    
+    <content type="html"><![CDATA[<p>带 <u>下划线</u> 的文本；<br>带 <emp>着重号</emp> 的文本；<br>带 <wavy>波浪线</wavy> 的文本；<br>带 <del>删除线</del> 的文本<br>键盘样式的文本：<kbd>⌘</kbd> + <kbd>D</kbd><br>密码样式的文本：<psw title="你知道的太多了">这里没有验证码</psw><br>选中文字显示内容：<blur title="你知道的太多了">模糊模糊模糊模糊模糊模糊</blur></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;带 &lt;u&gt;下划线&lt;/u&gt; 的文本；&lt;br&gt;带 &lt;emp&gt;着重号&lt;/emp&gt; 的文本；&lt;br&gt;带 &lt;wavy&gt;波浪线&lt;/wavy&gt; 的文本；&lt;br&gt;带 &lt;del&gt;删除线&lt;/del&gt; 的文本&lt;br&gt;键盘样式的文本：&lt;kbd&gt;⌘&lt;/kbd&gt; + &lt;kbd&gt;D&lt;/kbd&gt;&lt;br&gt;密</summary>
+      
+    
+    
+    
+    
+    <category term="(文本样式标签测试)" scheme="http://example.com/tags/%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>风和万丽，阳光明媚</title>
+    <link href="http://example.com/posts/9520.html"/>
+    <id>http://example.com/posts/9520.html</id>
+    <published>2022-03-30T07:57:50.000Z</published>
+    <updated>2022-10-31T04:30:59.421Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="美好生活"><a href="#美好生活" class="headerlink" title="美好生活"></a>美好生活</h1><blockquote><p>千门万户曈曈日，总把新桃换旧符。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;美好生活&quot;&gt;&lt;a href=&quot;#美好生活&quot; class=&quot;headerlink&quot; title=&quot;美好生活&quot;&gt;&lt;/a&gt;美好生活&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;千门万户曈曈日，总把新桃换旧符。&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="生活美满" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB%E7%BE%8E%E6%BB%A1/"/>
+    
+  </entry>
+  
+</feed>
