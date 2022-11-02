@@ -30,25 +30,6 @@
     
     
     <entry>
-      <title>主题样式</title>
-      <link href="/posts/9520.html"/>
-      <url>/posts/9520.html</url>
-      
-        <content type="html"><![CDATA[<p><h2>页面首页</h2><br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:            【必需】页面标题</span><br><span class="line">date:            【必需】页面创建日期</span><br><span class="line">type:            【必需】标签、分类和友情链接三个页面需要配置</span><br><span class="line">updated:        【可选】页面更新日期</span><br><span class="line">description:    【可选】页面描述</span><br><span class="line">keywords:        【可选】页面关键字</span><br><span class="line">comments:        【可选】显示页面评论模块 (默认 true)</span><br><span class="line">top<span class="emphasis">_img:        【可选】页面顶部图片</span></span><br><span class="line"><span class="emphasis">mathjax:        【可选】显示 mathjax (当设置 mathjax 的 per_</span>page: false 时，才需要配置，默认 false)</span><br><span class="line">katex:            【可选】显示 katex (当设置 katex 的 per<span class="emphasis">_page: false 时，才需要配置，默认 false)</span></span><br><span class="line"><span class="emphasis">aside:            【可选】显示侧边栏 (默认 true)</span></span><br><span class="line"><span class="emphasis">aplayer:        【可选】在需要的页面加载 aplayer 的 js 和 css, 请参考文章下面的音乐 配置</span></span><br><span class="line"><span class="emphasis">highlight_</span>shrink:   【可选】配置代码框是否展开 (true/false)(默认为设置中 highlight<span class="emphasis">_shrink 的配置)</span></span><br><span class="line"><span class="emphasis">toc:            【可选】 页面是否显示目录</span></span><br><span class="line"><span class="emphasis">toc_</span>number:        【可选】 目录是否显示数字</span><br><span class="line"><span class="section">sticky:            【可选】 文章置顶，数字越大越靠前</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 生活美满 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>text(文本样式标签测试)</title>
       <link href="/posts/9520.html"/>
       <url>/posts/9520.html</url>
@@ -60,6 +41,25 @@
         <tags>
             
             <tag> (文本样式标签测试) </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>主题样式</title>
+      <link href="/posts/9520.html"/>
+      <url>/posts/9520.html</url>
+      
+        <content type="html"><![CDATA[<p><h2>页面首页</h2><br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:            【必需】页面标题</span><br><span class="line">date:            【必需】页面创建日期</span><br><span class="line">type:            【必需】标签、分类和友情链接三个页面需要配置</span><br><span class="line">updated:        【可选】页面更新日期</span><br><span class="line">description:    【可选】页面描述</span><br><span class="line">keywords:        【可选】页面关键字</span><br><span class="line">comments:        【可选】显示页面评论模块 (默认 true)</span><br><span class="line">top<span class="emphasis">_img:        【可选】页面顶部图片</span></span><br><span class="line"><span class="emphasis">mathjax:        【可选】显示 mathjax (当设置 mathjax 的 per_</span>page: false 时，才需要配置，默认 false)</span><br><span class="line">katex:            【可选】显示 katex (当设置 katex 的 per<span class="emphasis">_page: false 时，才需要配置，默认 false)</span></span><br><span class="line"><span class="emphasis">aside:            【可选】显示侧边栏 (默认 true)</span></span><br><span class="line"><span class="emphasis">aplayer:        【可选】在需要的页面加载 aplayer 的 js 和 css, 请参考文章下面的音乐 配置</span></span><br><span class="line"><span class="emphasis">highlight_</span>shrink:   【可选】配置代码框是否展开 (true/false)(默认为设置中 highlight<span class="emphasis">_shrink 的配置)</span></span><br><span class="line"><span class="emphasis">toc:            【可选】 页面是否显示目录</span></span><br><span class="line"><span class="emphasis">toc_</span>number:        【可选】 目录是否显示数字</span><br><span class="line"><span class="section">sticky:            【可选】 文章置顶，数字越大越靠前</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生活美满 </tag>
             
         </tags>
       
