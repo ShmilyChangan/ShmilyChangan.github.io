@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>代码演示</title>
-      <link href="/posts/be82d226.html"/>
-      <url>/posts/be82d226.html</url>
-      
-        <content type="html"><![CDATA[<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">span</span>&gt;</span>helle world!<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
@@ -30,19 +17,13 @@
     
     
     <entry>
-      <title>text(文本样式标签测试)</title>
-      <link href="/posts/9520.html"/>
-      <url>/posts/9520.html</url>
+      <title>代码演示</title>
+      <link href="/posts/be82d226.html"/>
+      <url>/posts/be82d226.html</url>
       
-        <content type="html"><![CDATA[<p>带 <u>下划线</u> 的文本；<br>带 <emp>着重号</emp> 的文本；<br>带 <wavy>波浪线</wavy> 的文本；<br>带 <del>删除线</del> 的文本<br>键盘样式的文本：<kbd>⌘</kbd> + <kbd>D</kbd><br>密码样式的文本：<psw title="你知道的太多了">这里没有验证码</psw><br>选中文字显示内容：<blur title="你知道的太多了">模糊模糊模糊模糊模糊模糊</blur></p>]]></content>
+        <content type="html"><![CDATA[<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">span</span>&gt;</span>helle world!<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> (文本样式标签测试) </tag>
-            
-        </tags>
       
     </entry>
     
@@ -60,6 +41,25 @@
         <tags>
             
             <tag> 生活美满 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>text(文本样式标签测试)</title>
+      <link href="/posts/9520.html"/>
+      <url>/posts/9520.html</url>
+      
+        <content type="html"><![CDATA[<p>带 <u>下划线</u> 的文本；<br>带 <emp>着重号</emp> 的文本；<br>带 <wavy>波浪线</wavy> 的文本；<br>带 <del>删除线</del> 的文本<br>键盘样式的文本：<kbd>⌘</kbd> + <kbd>D</kbd><br>密码样式的文本：<psw title="你知道的太多了">这里没有验证码</psw><br>选中文字显示内容：<blur title="你知道的太多了">模糊模糊模糊模糊模糊模糊</blur></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> (文本样式标签测试) </tag>
             
         </tags>
       
